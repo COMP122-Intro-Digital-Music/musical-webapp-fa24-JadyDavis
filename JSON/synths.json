@@ -1,1 +1,52 @@
-[ ]
+[
+  {
+    "name": "Crush/Crunchy",
+    "type": "Synth",
+    "settings": {
+      "volume": "0",
+      "detune": "70",
+      "portamento": "2",
+      "envelope": {
+        "attack": "1",
+        "attackCurve": "sine",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "sine",
+        "sustain": "0.5"
+      },
+      "oscillator": {
+        "partialCount": "0",
+        "partials": [],
+        "phase": 0,
+        "type": "fatsawtooth",
+        "count": "3",
+        "spread": "20"
+      }
+    }
+  },
+  {
+    "name": "Smooth/Clean",
+    "type": "Synth",
+    "settings": {
+      "volume": "0",
+      "detune": "90",
+      "portamento": "0.05",
+      "envelope": {
+        "attack": "0.005",
+        "attackCurve": "exponential",
+        "decay": "0.5",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "exponential",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": "0",
+        "partials": [],
+        "phase": 0,
+        "type": "sine"
+      }
+    }
+  }
+]
