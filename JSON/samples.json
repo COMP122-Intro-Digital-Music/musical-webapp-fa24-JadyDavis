@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "name": "Breathe- Exhale",
+    "file": "samples/Breath_Sample.mp3",
+    "bpm": "120",
+    "loop": "2m"
+  },
+  {
+    "name": "Dubstep Bass",
+    "file": "samples/Dubstep_Bass_Sample.wav",
+    "bpm": "120",
+    "loop": "2m"
+  },
+  {
+    "name": "Guitar Riff",
+    "file": "samples/Guitar_Riff_Sample.wav",
+    "bpm": "120",
+    "loop": "2m"
+  },
+  {
+    "name": "Male Jazz Scat",
+    "file": "samples/Jazz_Scat_Male_Acapella.wav",
+    "bpm": "120",
+    "loop": "3m"
+  },
+  {
+    "name": "Robot Beat",
+    "file": "samples/Random_Robot_Noises.mp3",
+    "bpm": "120",
+    "loop": "2m"
+  }
+]
